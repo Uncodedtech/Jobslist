@@ -1,16 +1,10 @@
 # Jobslist
-This repo includes links of important repositories which hold a list of opportunities available to people in tech. 
 
-* randallkanna/awesome-job-list
-https://github.com/Uncodedtech/awesome-job-list
+This repo includes fork links of important repositories which hold a list of opportunities available to people in tech. 
 
+* [awesome-job-list](https://github.com/Uncodedtech/awesome-job-list)
+* [Companies that don't have a broken hiring process](https://github.com/Uncodedtech/hiring-without-whiteboards)
+* [A list of semi to fully remote-friendly companies in tech](https://github.com/Uncodedtech/remote-jobs)
+* [A list of Developer Community Writer Programs](https://github.com/Uncodedtech/CommunityWriterPrograms)
 
-⭐️ Companies that don't have a broken hiring process airtable.com/shr3egpdm3wgjt2ga
-https://github.com/Uncodedtech/hiring-without-whiteboards
-
-A list of semi to fully remote-friendly companies in tech
-https://github.com/Uncodedtech/remote-jobs
-
-
-A list of Developer Community Writer Programs
-https://github.com/Uncodedtech/CommunityWriterPrograms
+-----------------------------------------------------

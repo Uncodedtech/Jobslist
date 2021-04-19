@@ -12,10 +12,10 @@
 
 ### Others
 
-* [Study Abroad Funding website - wemakescholars](https://www.wemakescholars.com/)
 * [Bug bounty programs](https://github.com/Uncodedtech/public-bugbounty-programs)
 * [Bug bounty writeup & programs](https://github.com/Uncodedtech/awesome-bug-bounty)
-* [ML Summer Schools](https://github.com/Uncodedtech/awesome-mlss)
 * [Resources for independent developers to make money](https://github.com/Uncodedtech/awesome-indie)
+* [Study Abroad Funding website - wemakescholars](https://www.wemakescholars.com/)
+* [ML Summer Schools](https://github.com/Uncodedtech/awesome-mlss)
 
 -----------------------------------------------------

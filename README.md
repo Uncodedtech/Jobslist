@@ -1,6 +1,6 @@
 # Jobslist
 
-> **This repo includes list of *forked* repositories which hold a list of opportunities available to people in tech.** 
+> **This repository includes links to *forked* repositories which hold a list of opportunities available to people in tech.** 
 
 * [awesome-job-list](https://github.com/Uncodedtech/awesome-job-list)
 * [Companies that don't have a broken hiring process](https://github.com/Uncodedtech/hiring-without-whiteboards)
@@ -18,4 +18,19 @@
 * [Study Abroad Funding website - wemakescholars](https://www.wemakescholars.com/)
 * [ML Summer Schools](https://github.com/Uncodedtech/awesome-mlss)
 
------------------------------------------------------
+------------------------------------------------------------------
+-----------------------------------------------
+
+## Maintainer
+
+* [Suraj Verma](https://github.com/surajv311)
+
+#### Parent repository
+* [one4All](https://github.com/Surajv311/one4All)
+
+## License
+
+* [MIT](LICENSE)
+
+---------------------------
+
